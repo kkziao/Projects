@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
-<!--************************************************************* 
-     * File name: ./error.php
-     * Purpose:   Prj-INFO152-TEAM01, displaying database error
-     * Complete Date: 03/25/2023     
-     * Author: Gayan Rathnathilake 
-     * DrexelId: ger38
-     ************************************************************ -->
+
 <!-- the head section -->
 <head>
     <title>My Flower Shop</title>

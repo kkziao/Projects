@@ -1,11 +1,4 @@
 <?php
-/************************************************************* 
- * File name: ./display.php
- * Purpose:   Prj-INFO152-TEAM01, addding a form to retrieve input into database from the forms page
- * Complete Date: 03/25/2023     
- * Author: Ziao You
- * DrexelId: zy364
- ************************************************************/
 
 include_once('flower_shop_db.php');
 

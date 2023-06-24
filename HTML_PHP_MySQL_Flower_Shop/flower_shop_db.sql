@@ -1,10 +1,4 @@
-/************************************************************* 
-     * File name: ./flower_shop_db.sql
-     * Purpose:   Prj-INFO152-TEAM01, Build the databasr for Flower shop website
-     * Complete Date: 03/25/2023     
-     * Author: gayan Rathnathilake, Chris Greco 
-     * DrexelId: ger38, cg3252
-     ************************************************************/
+
 DROP DATABASE IF EXISTS flower_shop_db;
 CREATE DATABASE flower_shop_db;
 USE flower_shop_db;  -- MySQL command

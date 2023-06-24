@@ -1,11 +1,5 @@
 <?php
-/* 
-     * File name: ./add_product.php
-     * Purpose:   Prj-INFO152-TEAM01, adding content to the databse
-     * Complete Date: 03/25/2023
-     * Author: Gayan Rathnathilake 
-     * DrexelId: ger38
-     **/
+
 // Get the product data
 $category_id = filter_input(INPUT_POST, 'category_id', FILTER_VALIDATE_INT);
 $flowertype = filter_input(INPUT_POST, 'flowertype');

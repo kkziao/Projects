@@ -1,11 +1,5 @@
 <?php
-/************************************************************* 
-     * File name: ./form.php
-     * Purpose:   Prj-INFO152-TEAM01, display database content
-     * Complete Date: 03/25/2023     
-     * Author: gayan Rathnathilake 
-     * DrexelId: ger38
-     ************************************************************/
+
 
  //  Connect database, include once	
 $dsn = 'mysql:host=localhost;dbname=flower_shop_db';

@@ -1,11 +1,4 @@
 <?php
-/************************************************************* 
-     * File name: ./delete_product.phpphp
-     * Purpose:   Prj-INFO152-TEAM01, deleting content from the database
-     * Complete Date: 03/25/2023     
-     * Author: Gayan Rathnathilake 
-     * DrexelId: ger38
-     ************************************************************/
 
 //  Connect database, include once	
 require_once('flower_shop_db.php');
