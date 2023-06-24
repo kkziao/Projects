@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!-- 
+File Name: login.html
+Purpose: Prj-INFO152-TEAM01, creates the login page for the website
+Complete Date: 03/25/2023
+Author: Viggy Mungala, Anna Vynnyk, Gayan R
+-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="main.css">
+<title>Login Page</title>
+</head>
+<body>
+  
+<!-- Navigation -->
+<div class="navigation">
+  <a href="index.html">Home</a>
+  <a href="display.php">Display Page</a>
+  <a href="login.html">Form Page</a>
+</div>
+<br>
+<h1>Please Login Before Editing!</h1>
+<!-- Banner -->
+<section>
+  <img class="logo" alt="s" src="https://t3.ftcdn.net/jpg/02/62/18/36/360_F_262183660_0nbXAUolsU7TqtELicdIOlbwTuz7oiGe.jpg"></section>
+<!-- links login submission with the next page-->
+  <form class="login_section" action= "form.php" method="post">
+    <p> Username: </p>
+    <input type="text" name="username" value="" />
+    
+    <p> Password: </p>
+    <input type="password" name="password" />
+    <br>
+    <br>
+
+    <input type="submit" name="submitBtn" value="submit">
+  </form>
+    
+
+<!-- Footer -->
+<footer>
+  <p>&copy; This website is created by Team01 (Gayan, Anna, Anthony, Ziao, Chris, Vignesh) for INFO152-Proj</p>
+</footer>
+
+
+</body>
+</html>
